@@ -48,7 +48,7 @@ This folder contains results from the predictive analysis.
 
 
 figure_code:
-This folder contains code to generate good-looking figures using the saved rds files from previous analyses (saved in the folder figure_rds_files)
+This folder contains code to generate good-looking figures using the saved rds files from previous analyses (saved in the folder figure_rds_files).
 
 
 
