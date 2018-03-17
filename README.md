@@ -1,6 +1,6 @@
-# Functional Clustering of Osteoarthritis Progression
+# Modeling and predicting Osteoarthritis Progression
 
-These tools are adapted from the following publication:
+The functional data clustering tools are based on the following publications:
 
 James GM, Sugar CA. Clustering for Sparsely Sampled Functional Data. J Am Stat Assoc. 2003;98(462):397-408.
 
