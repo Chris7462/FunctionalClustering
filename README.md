@@ -1,4 +1,4 @@
-# Modeling and predicting Osteoarthritis Progression
+# Modeling and Predicting Osteoarthritis Progression
 
 The functional data clustering tools are based on the following publications:
 
