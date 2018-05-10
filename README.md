@@ -1,5 +1,13 @@
 # Modeling and Predicting Osteoarthritis Progression
 
+
+This project is currently under review:
+
+Halilaj E*, Le Y*, Hicks JL, Hastie TJ, Delp SL. "Modeling and Predicting Osteoarthritis Progression: Data from the Osteoarthritis Initiative." 
+
+* equal contribution
+
+
 The functional data clustering tools are based on the following publications:
 
 James GM, Sugar CA. Clustering for Sparsely Sampled Functional Data. J Am Stat Assoc. 2003;98(462):397-408.
@@ -50,8 +58,6 @@ This folder contains results from the predictive analysis.
 figure_code:
 This folder contains code to generate figures using the saved rds files from previous analyses (saved in the folder figure_rds_files).
 
-
-Questions can be sent to enihalilaj@gmail.com
 
 
 
