@@ -5,7 +5,7 @@ This project is currently under review:
 
 Halilaj E*, Le Y*, Hicks JL, Hastie TJ, Delp SL. "Modeling and Predicting Osteoarthritis Progression: Data from the Osteoarthritis Initiative." 
 
-* equal contribution
+ (*) equal contribution
 
 
 The functional data clustering tools are based on the following publications:
